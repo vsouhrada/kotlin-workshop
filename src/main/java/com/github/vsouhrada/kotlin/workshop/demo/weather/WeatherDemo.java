@@ -20,7 +20,6 @@ public class WeatherDemo {
         System.out.println("Description=" + description + " color=" + color);
     }
 
-
     public static void main(String [] args) {
         WeatherDemo demo = new WeatherDemo();
         demo.updateWeather(10);
